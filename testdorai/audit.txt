@@ -1,0 +1,6 @@
+ID,Age,Employment,Education,Marital,Occupation,Income,Gender,Deductions,Hours,IGNORE_Accounts,RISK_Adjustment,TARGET_Adjusted
+1047698,43,Private,Bachelor,Married,Executive,43391.17,Male,0,50,UnitedStates,22418,1
+1053888,35,Private,Yr12,Married,Machinist,59906.65,Male,0,40,UnitedStates,0,0
+1061323,25,Private,Associate,Divorced,Clerical,126888.91,Female,0,40,UnitedStates,0,0
+1062363,22,Private,HSgrad,Absent,Sales,52466.49,Female,0,37,UnitedStates,0,0
+1068642,48,Private,College,Divorced,Service,291416.11,Female,0,35,UnitedStates,0,0
